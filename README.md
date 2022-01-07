@@ -1,2 +1,2 @@
 # bonsai-website
- estudo de caso site bonsai (BedimCode)
+ estudo de caso site responsivo de bonsai (BedimCode)
